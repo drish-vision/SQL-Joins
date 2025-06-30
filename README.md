@@ -1,4 +1,4 @@
-## Task 5: SQL Joins (INNER, LEFT, RIGHT, FULL)
+## SQL Joins (INNER, LEFT, RIGHT, FULL)
 
 **Objective**: Merge data from related tables using JOINs.
 
